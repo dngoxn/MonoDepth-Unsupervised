@@ -1,0 +1,1 @@
+All data folders have been deleted to not waste memory. It can be accessed through Kaggle, KITTI dataset.
